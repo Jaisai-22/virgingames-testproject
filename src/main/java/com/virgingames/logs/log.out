@@ -1,0 +1,22 @@
+2021-07-30 20:07:412 INFO  BasePage :39 - Launching Chrome Browser 
+2021-07-30 20:07:677 INFO  HomePage :34 - Clicking on okay buttonProxy element for: DefaultElementLocator 'By.xpath: //button[contains(text(),'OK')]'
+2021-07-30 20:07:817 INFO  BasePage :39 - Launching Chrome Browser 
+2021-07-30 20:07:450 INFO  BasePage :39 - Launching Chrome Browser 
+2021-07-30 20:07:842 INFO  HomePage :34 - Clicking on okay buttonProxy element for: DefaultElementLocator 'By.xpath: //button[contains(text(),'OK')]'
+2021-07-30 20:07:267 INFO  HomePage :40 - Clicking on LoginLink: Proxy element for: DefaultElementLocator 'By.xpath: //a[contains(text(),'Login')]'
+2021-07-30 20:07:359 INFO  LoginPage :55 - Verify user navigate to login page: Proxy element for: DefaultElementLocator 'By.xpath: //div[@class='logo-container']//a[@title='Virgin Games Home']//*[local-name()='svg']'
+2021-07-30 20:07:802 INFO  BasePage :39 - Launching Chrome Browser 
+2021-07-30 20:07:416 INFO  HomePage :34 - Clicking on okay buttonProxy element for: DefaultElementLocator 'By.xpath: //button[contains(text(),'OK')]'
+2021-07-30 20:07:775 INFO  HomePage :40 - Clicking on LoginLink: Proxy element for: DefaultElementLocator 'By.xpath: //a[contains(text(),'Login')]'
+2021-07-30 20:07:24 INFO  BasePage :39 - Launching Chrome Browser 
+2021-07-30 20:07:135 INFO  HomePage :34 - Clicking on okay buttonProxy element for: DefaultElementLocator 'By.xpath: //button[contains(text(),'OK')]'
+2021-07-30 20:07:510 INFO  HomePage :40 - Clicking on LoginLink: Proxy element for: DefaultElementLocator 'By.xpath: //a[contains(text(),'Login')]'
+2021-07-30 20:07:741 INFO  BasePage :39 - Launching Chrome Browser 
+2021-07-30 20:07:884 INFO  HomePage :34 - Clicking on okay buttonProxy element for: DefaultElementLocator 'By.xpath: //button[contains(text(),'OK')]'
+2021-07-30 20:07:786 INFO  HomePage :40 - Clicking on LoginLink: Proxy element for: DefaultElementLocator 'By.xpath: //a[contains(text(),'Login')]'
+2021-07-30 20:07:256 INFO  BasePage :39 - Launching Chrome Browser 
+2021-07-30 20:07:856 INFO  HomePage :34 - Clicking on okay buttonProxy element for: DefaultElementLocator 'By.xpath: //button[contains(text(),'OK')]'
+2021-07-30 20:07:416 INFO  HomePage :40 - Clicking on LoginLink: Proxy element for: DefaultElementLocator 'By.xpath: //a[contains(text(),'Login')]'
+2021-07-30 20:07:911 INFO  BasePage :39 - Launching Chrome Browser 
+2021-07-30 20:07:159 INFO  HomePage :34 - Clicking on okay buttonProxy element for: DefaultElementLocator 'By.xpath: //button[contains(text(),'OK')]'
+2021-07-30 20:07:779 INFO  HomePage :40 - Clicking on LoginLink: Proxy element for: DefaultElementLocator 'By.xpath: //a[contains(text(),'Login')]'
